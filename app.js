@@ -1,5 +1,5 @@
 const appRoot = require("app-root-path");
-const config = require(appRoot + "./config/config.js");
+const config = require(appRoot + "/config/config.js");
 var createError = require("http-errors");
 var express = require("express");
 var path = require("path");
