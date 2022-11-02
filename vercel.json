@@ -3,7 +3,7 @@
     "name": "rarity-analyser-02-11-2022",
     "builds": [
        { 
-         "src": "./app.js", 
+         "src": "app.js", 
          "use": "@vercel/node"
        }
     ],
